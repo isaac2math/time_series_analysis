@@ -9,3 +9,6 @@ The code covers
 * Different smoothing techniques
 * VAR, ECM
 * Different statistical tests (ADF, Ljung-Box, ..., etc) for time series analysis.
+* Bayes net model for time series
+* Recurrent neural network
+* More will appear here
