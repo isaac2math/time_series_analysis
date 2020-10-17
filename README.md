@@ -2,7 +2,7 @@
 
 In this file, I included all the codes and packages for the statistics course "time series analysis" I teach at 2020 S1 and S2
 
-I use Python, R, Matlab, Julia and Stata algether, unless some package is missing for certain kinds of languages
+I use Python, R, Matlab/Octave, Julia and Stata (C++ somewhere for backend programming of R and Matlab) altogether, unless some package is missing for certain kinds of languages
 
 The codes covers
 
