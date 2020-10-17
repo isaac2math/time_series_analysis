@@ -6,6 +6,8 @@ I use Python, R, Matlab/Octave, Julia and Stata (C++ somewhere for backend progr
 
 I just love to collect all codes into Jupyter kernel for better demostration.
 
+Please note that **the HEGY test is missing in Python. I will develop it myself; however, due to extra heavy teaching load, I cannot guarantee that I will finish it in time**
+
 The codes covers
 
 * Basic operations (estimation, prediction, test,...) for OLS
