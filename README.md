@@ -1,6 +1,6 @@
 # time_series_analysis
 
-## In this file, I included all the codes and packages for the statistics course I teach at 2020 S1 and S2
+## In this file, I included all the codes and packages for the statistics course "time series analysis" I teach at 2020 S1 and S2
 
 The code covers
 * Basic operations (estimation, prediction, test,...) for OLS
