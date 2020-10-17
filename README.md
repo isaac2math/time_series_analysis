@@ -23,7 +23,7 @@ The codes covers
 * More will appear here
 
 Reference includes a number of machine learning papers and the following books
-* Element of Statistical Learning
+* Element of Statistical Learning (*if you have questions on the machine learning models*)
 * Adaptive filtering algorithms and practical implementation by Paulo S. R. Diniz
 * A Kalman Filter Primer by Randall L. Eubank
 * Statistical and Adaptive Signal Processing Spectral Estimation, Signal Modeling, Adaptive Filtering and Array Processing by Dimitris G. Manolakis, Vinay K. Ing
